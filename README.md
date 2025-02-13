@@ -1,5 +1,5 @@
 # Electro
-Dự án là project môn Back-End Web 1
+Dự đồ là project môn Back-End Web 1
 
 ## Sử Dụng
 
@@ -7,4 +7,4 @@ Dự án là project môn Back-End Web 1
 
 ## Thiết Kế
 
-Dự án được thiết kế theo phong cách tối giản, giúp người dùng dễ dàng tương tác và trải nghiệm dịch vụ mà không bị phân tâm.
+Đồ án được thiết kế theo phong cách tối giản, giúp người dùng dễ dàng tương tác và trải nghiệm dịch vụ mà không bị phân tâm.
