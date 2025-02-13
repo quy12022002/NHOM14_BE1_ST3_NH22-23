@@ -1,4 +1,4 @@
-# Poly Cinemas
+# Electro
 
 ## Sử Dụng
 
