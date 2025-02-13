@@ -1,5 +1,5 @@
 # Electro
-Dự đồ là project môn Back-End Web 1
+Dự án là project môn Back-End Web 1
 
 ## Sử Dụng
 
